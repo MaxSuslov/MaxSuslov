@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a project where my skills could be applied as relevant
 - 📫 How to reach me: 
   <ul>
-    <li> <a href="mailto:maxsusmail@gmail.com>maxsusmail@gmail.com</a></li>
+    <li> <a href="mailto:maxsusmail@gmail.com">maxsusmail@gmail.com</a></li>
     <li> <a href="tel:+48794542568">+(48)794542568</a></li>
     <li> <a href="https://wa.me/48794542568">WhatsApp</a></li>
     <li> <a href="https://telegram.me/maxsusmail">Telegram</a></li>
