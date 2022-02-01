@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxSuslov
 - 👀 I’m interested in JavaScript, Node, MongoDB, React, Vue, Wordpress, PHP, have experience in web development and analytics areas
-- 🌱 I’m currently deepening my knowledge of JavaScript and learning full-stack with Node.js with <a href="https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/" target="_blank">this</a> Udemy course
+- 🌱 I’m currently deepening my knowledge of JavaScript and learning full-stack with Node.js with <a href="https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/" target="_blank">this</a> Udemy course and enrolled in <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0" target="_blank">this amazing course of Harvard CS50</a>.
 - 💞️ I’m looking to collaborate on a project where my skills would be applicable
 - 📫 How to reach me: 
   <ul>
