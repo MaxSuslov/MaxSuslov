@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaxSuslov
-- 👀 I’m interested in Vue.js, JavaScript, Node, MongoDB, have some experience in web development and analytics areas
-- 🌱 I’m currently deepening my knowledge of JavaScript and learning <a href="https://www.udemy.com/course/vuejs-2-the-complete-guide/" target="_blank">Vue.js</a>, <a href="https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/" target="_blank">Node</a> and enrolled in <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0" target="_blank">CS50 course</a>.
+- 🌱 I’m currently deepening my knowledge of JavaScript and learning <a href="https://www.udemy.com/course/vuejs-2-the-complete-guide/" target="_blank">Vue.js</a>.
 - ✨ May the Force be with you!
 <!---
 MaxSuslov/MaxSuslov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
