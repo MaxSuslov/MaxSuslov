@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxSuslov
-- 🌱 I’m currently deepening my knowledge of JavaScript and learning <a href="https://www.udemy.com/course/vuejs-2-the-complete-guide/" target="_blank">Vue.js</a>.
+- 🌱 I’m currently deepening my knowledge of JavaScript and learning <a href="https://www.udemy.com/course/vuejs-2-the-complete-guide/" target="_blank">Vue.js</a> and <a href="https://www.udemy.com/course/nodejs-the-complete-guide/" target="_blank">Node.js</a>.
 - ✨ May the Force be with you!
 <!---
 MaxSuslov/MaxSuslov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
